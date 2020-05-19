@@ -29,8 +29,7 @@ github_username:  haiderade
 
 # Build settings
 theme: minima
-minima:
-  skin: solarized
+minima.skin: solarized
 plugins:
   - jekyll-feed
 
