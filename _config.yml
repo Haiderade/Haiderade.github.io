@@ -28,10 +28,9 @@ twitter_username: haiderade___
 github_username:  haiderade
 
 # Build settings
-theme: jekyll-theme-midnight
-# theme: minima
-# minima:
-  # skin: solarized
+theme: minima
+minima:
+skin: solarized
 plugins:
   - jekyll-feed
 
