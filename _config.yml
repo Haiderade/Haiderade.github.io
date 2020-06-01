@@ -21,8 +21,7 @@
 title: sikander ali haider
 email: shaider@ucsc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  hi. welcome. 21 y/o soon-to-be college grad trying to make his way through the world, and not die trying. Expect irregular posts with even less consistent content. Hope you enjoy your stay.
-baseurl: "" # the subpath of your site, e.g. /blog
+  hi. welcome.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: haiderade___
 github_username:  haiderade
