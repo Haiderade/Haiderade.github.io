@@ -27,4 +27,6 @@ While writing this up, I've realized that my work shouldn't, and can't define wh
 
 *The fire that was in eyes feels like its been extinguished, and I'm scared that it'll never light back up again.*
 
-If you made it this far, thanks for reading. I'm not sure if I'll publish this, but one of my friends told me that there's power in vulnerability, so maybe I'll give that a shot, let my walls down for once. Eat some veggies, go outside, and do some stretches. Hopefully I'll be back sooner next time.  
+If you made it this far, thanks for reading. I'm not sure if I'll publish this, but one of my friends told me that there's power in vulnerability, so maybe I'll give that a shot, let my walls down for once. 
+
+Eat some veggies, go outside, and do some stretches. Hopefully I'll be back sooner next time.  
